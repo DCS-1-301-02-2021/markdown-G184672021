@@ -15,7 +15,7 @@ _情報化社会をさらに進化させる、IT業界の新たなリーダー�
 
 ![logo](hyou.png)
 ・URL
-https://www.takushoku-u.ac.jp/summary/
+[拓殖大学](https://www.takushoku-u.ac.jp/summary/)
 ![logo](logo.png)
 
 <!-- この部分より上に記述を追加して下のチェックボックスで確認する -->
